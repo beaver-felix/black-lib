@@ -84,7 +84,7 @@ For Contributors: Please log your document(s) in table(s) before git push.
 |1|[Stochastic Calculus for Absolute Beginners - Math with Ming](https://www.youtube.com/playlist?list=PL1dqPc_qxc0esLUl13_nPEDVREIvXWeXz)|html|
 |2|[Github Repositories for Startings Quantitative Finance](<Stochastic-Algebra-Finance/repos.md>)|1|
 |3|[Intermediate Quantitative Economics with Python](<Stochastic-Algebra-Finance/quantecon-python 2.pdf>)|2221, yes|
-|4|[Active Portfolio Management - A Quantitative Approach for Providing Superior Returns and Controlling Risk - Richard C. Grinold](Stochastic-Algebra-Finance/<Richard Grinold, Ronald Kahn-Active Portfolio Management_ A Quantitative Approach for Producing Superior Returns and Controlling Risk-McGraw-Hill (1999).pdf>)|621|
+|4|[Active Portfolio Management - A Quantitative Approach for Providing Superior Returns and Controlling Risk - Richard C. Grinold](<Stochastic-Algebra-Finance/Richard Grinold, Ronald Kahn-Active Portfolio Management_ A Quantitative Approach for Producing Superior Returns and Controlling Risk-McGraw-Hill (1999).pdf>)|621|
 |5|[Thinking Stragetically - The Competitive Edge in Bussiness, Politics and Everyday Life - Avinash K. Dixit](<Stochastic-Algebra-Finance/Thinking-strategically-the-competitive-edge-in-business-politics.pdf>)|396|
 
 ### NeuroCognitive Science
