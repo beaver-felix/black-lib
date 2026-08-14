@@ -55,6 +55,7 @@ For Contributors: Please log your document(s) in table(s) before git push.
 |16|[Math Books for Beginers](https://youtu.be/2aGe20OuUAU)|html|
 |17|[Real Mathematical Analysis - Charles C. Pugh](<real-mathematical-analysis.pdf>)|487|
 |18|[categories for the Workingg Mathematican - 2nd Edition - Saunders Mac Lane](<Math-and-CompSci/maclane-categories.pdf>)|320|
+|19|[Algorithms in Real Algebraic Geometry](<Math-and-CompSci/basu2006.pdf>)|665|
 
 ### Networking and Data Engineering
 |idx|Document|pages|
