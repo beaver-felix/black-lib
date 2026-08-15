@@ -68,6 +68,7 @@ For Contributors: Please log your document(s) in table(s) before git push.
 |6|[Systems Performance - Enterprise and the Cloud 2nd Edition - Brendan Gregg](<Networks/Systems.Performance.Enterprise.and.the.Cloud.2nd.Edition.2020.12.pdf>)|929|
 |7|[The Architecture of Open Source Applications](https://aosabook.org/en/)|html|
 |8|[confluent - Designing Event-Driven Systems - Concepts and patterns for Streaming Services with Apahce Kafka - Ben Stopford](<Networks/confluent-designing-event-driven-systems.pdf>)|166|
+|9|[Automating Data Quality Monitoring - Jeremy Stanley](<Networks/Automating Data Quality Monitoring Scaling Beyond Rules with Machine Learning - Jeremy Stanley.pdf>)|220|
 
 ### Programming Languages
 |idx|Document|pages|
