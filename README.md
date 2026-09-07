@@ -57,6 +57,7 @@ For Contributors: Please log your document(s) in table(s) before git push.
 |18|[categories for the Workingg Mathematican - 2nd Edition - Saunders Mac Lane](<Math-and-CompSci/maclane-categories.pdf>)|320|
 |19|[Algorithms in Real Algebraic Geometry](<Math-and-CompSci/basu2006.pdf>)|665|
 |20|[Theory of Distributed Systems - James Aspnes](<Math-and-CompSci/distributed-theory.pdf>)|648|
+|21|[Concrete Mathematics](<Math-and-CompSci/concrete-mathematics.pdf>)|691|
 
 ### Networking and Data Engineering
 |idx|Document|pages|
